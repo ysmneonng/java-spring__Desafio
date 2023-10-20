@@ -1,7 +1,7 @@
 package PadroesFacade;
 
-import Subsistema1.crm.CrmService;
-import Subsistema2.cep.CepApi;
+import crm.CrmService;
+import cep.CepApi;
 
 public class Facade {
 

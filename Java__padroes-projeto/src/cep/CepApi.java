@@ -1,6 +1,4 @@
-package Subsistema2.cep;
-
-import PadroesSingleton.SingletonEager;
+package cep;
 
 public class CepApi {
         private static CepApi instancia = new CepApi();

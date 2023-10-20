@@ -1,4 +1,4 @@
-package Subsistema1.crm;
+package crm;
 
 public class CrmService {
     private CrmService() {

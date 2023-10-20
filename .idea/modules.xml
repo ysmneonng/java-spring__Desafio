@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Java__padroes-projeto.iml" filepath="$PROJECT_DIR$/Java__padroes-projeto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java-Spring__padroes-projeto.iml" filepath="$PROJECT_DIR$/Java-Spring__padroes-projeto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java__padroes-projeto/Java__padroes-projeto.iml" filepath="$PROJECT_DIR$/Java__padroes-projeto/Java__padroes-projeto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring__padroes-projeto/Spring__padroes-projeto.iml" filepath="$PROJECT_DIR$/Spring__padroes-projeto/Spring__padroes-projeto.iml" />
     </modules>
   </component>
 </project>
