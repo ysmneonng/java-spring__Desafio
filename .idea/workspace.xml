@@ -4,7 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e175a1fa-50a8-4d44-8292-0a9d0d9caa97" name="Changes" comment="java" />
+    <list default="true" id="e175a1fa-50a8-4d44-8292-0a9d0d9caa97" name="Changes" comment="java">
+      <change afterPath="$PROJECT_DIR$/Spring__padroes-projeto/lab-padroes-projeto-spring/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring__padroes-projeto/lab-padroes-projeto-spring/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring__padroes-projeto/lab-padroes-projeto-spring/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring__padroes-projeto/lab-padroes-projeto-spring/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring__padroes-projeto/lab-padroes-projeto-spring/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring__padroes-projeto/lab-padroes-projeto-spring/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring__padroes-projeto/lab-padroes-projeto-spring/src/main/java/Spring__padroesprojeto/labpadroesprojetospring/LabPadroesProjetoSpringApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring__padroes-projeto/lab-padroes-projeto-spring/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring__padroes-projeto/lab-padroes-projeto-spring/src/test/java/Spring__padroesprojeto/labpadroesprojetospring/LabPadroesProjetoSpringApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,20 +33,26 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProblemsViewState">
-    <option name="selectedTabId" value="ProjectErrors" />
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2X2OOfg8N2IhW84UdXY2G7UqXaI" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -52,6 +70,9 @@
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Spring__padroes-projeto" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="PadroesStrategy" />
@@ -83,6 +104,7 @@
       <option name="presentableId" value="Default" />
       <updated>1697823677644</updated>
       <workItem from="1697823678661" duration="4886000" />
+      <workItem from="1697829895930" duration="704000" />
     </task>
     <task id="LOCAL-00001" summary="java">
       <option name="closed" value="true" />
@@ -116,6 +138,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="java" />
     <option name="LAST_COMMIT_MESSAGE" value="java" />
   </component>
